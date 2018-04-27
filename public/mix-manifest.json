@@ -1,4 +1,17 @@
 {
-    "/js/app.js": "/js/app.js?id=48450ee05daac1048ff5",
-    "/css/app.css": "/css/app.css?id=bfd91ddb1e78089cdab6"
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/uikit.min.js": "/js/uikit.min.js",
+    "/js/jquery.min.js": "/js/jquery.min.js",
+    "/js/slick.js": "/js/slick.js",
+    "/js/jquery.nice-select.min.js": "/js/jquery.nice-select.min.js",
+    "/js/wysihtml5-0.3.0.js": "/js/wysihtml5-0.3.0.js",
+    "/js/bootstrap.min.js": "/js/bootstrap.min.js",
+    "/js/bootstrap-wysihtml5.js": "/js/bootstrap-wysihtml5.js",
+    "/js/bootsnav.js": "/js/bootsnav.js",
+    "/js/aos.js": "/js/aos.js",
+    "/js/viewportchecker.js": "/js/viewportchecker.js",
+    "/js/start.js": "/js/start.js",
+    "/js/custom.js": "/js/custom.js",
+    "/css/all.css": "/css/all.css"
 }
